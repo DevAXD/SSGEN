@@ -96,8 +96,7 @@ In bot settings.
 * `Screenshot Genetation Mode` - Either `random` or `equally spaced`. Defaults to `equally spaced`.
 
 
-
-com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
+ 
 
 ## Dependencies
 * pyrogram
